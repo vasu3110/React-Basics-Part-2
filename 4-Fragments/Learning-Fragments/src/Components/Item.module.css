@@ -1,0 +1,10 @@
+.listItem{
+    background-color: beige;
+}
+.listSpan{
+    font-weight: 500;
+    color: blue;
+}
+.button{
+    float:right;
+}

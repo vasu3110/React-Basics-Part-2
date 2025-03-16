@@ -1,3 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.heading{
+
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    color: yellow;
+    align-items: center;
+    background-color: rgb(36, 14, 50);
+}
 .calculator{
     border: 1px solid rgb(187, 179, 179);
     width: 200px;
